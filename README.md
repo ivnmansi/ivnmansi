@@ -3,5 +3,5 @@
 - 💻 2nd year computer engineering student
 - 📚 Learning C and Python
 
-[>website<](https://ivnmansi.github.io)
+[>website & projects<](https://ivnmansi.github.io)
 
