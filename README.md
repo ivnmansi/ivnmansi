@@ -26,11 +26,6 @@ I use arch btw
 
 ###
 
-<div align="left">
-  <a href="https://ivnmansi.github.io">website & projects</a>
-</div>
-
-###
 
 <br clear="both">
 
