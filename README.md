@@ -22,6 +22,7 @@
 ###
 
 <p align="left">- 💻 2nd year computer engineering student<br>- 📚 Learning C and Python</p>
+I use arch btw
 
 ###
 
