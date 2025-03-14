@@ -34,7 +34,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux
 ###
 
 <p align="left">- 💻 3rd year computer engineering student<br>- ✍🏻 Learning C, Java, Python & Javascript</p> 
-<p><img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=plastic&logo=arch-linux&logoColor=white"></p>
+<p><img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=plastic&logo=arch-linux&logoColor=white"> btw!</p>
 
 ###
 
