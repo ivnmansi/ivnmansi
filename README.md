@@ -1,5 +1,5 @@
 <div align="right">
-<img align="right" height="150" src="https://media.tenor.com/si6LMkh1EykAAAAj/chandelure-pokemon.gif" style="margin-left:10px" />
+<img align="right" height="150" src="https://giffiles.alphacoders.com/258/2581.gif" style="margin-left:10px" />
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivnmansi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=true&order=2" height="150" alt="languages graph" />  
 </div>
 
