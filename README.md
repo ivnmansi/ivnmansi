@@ -2,7 +2,7 @@
 
 <div align="right">
 <img align="right" height="150" src="https://media1.tenor.com/m/PgJCTtiGsdcAAAAC/gmod-computer.gif" style="margin-left:10px" />
-<img align="right" src='https://github-readme-stats.vercel.app/api/top-langs/?username=ivnmansi&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact' height="150" alt="languages graph" />  
+<img align="right" src='https://github-readme-stats.vercel.app/api/top-langs/?username=ivnmansi&theme=holi&hide_border=true&include_all_commits=false&count_private=true&layout=compact' height="150" alt="languages graph" />  
 </div>
 
 
