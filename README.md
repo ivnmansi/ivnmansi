@@ -2,7 +2,7 @@
 
 <div align="right">
 <img align="right" height="150" src="https://img.itch.zone/aW1nLzMwMDA2MTkuZ2lm/original/2S3Qmr.gif" style="margin-left:10px" />
-<img align="right" src='https://github-readme-stats.vercel.app/api/top-langs/?username=ivnmansi&theme=holi&hide_border=true&include_all_commits=false&count_private=true&layout=compact' height="150" alt="languages graph" />  
+<img align="right" src='https://github-readme-stats.vercel.app/api/top-langs/?username=ivnmansi&theme=rose_pine&hide_border=true&include_all_commits=false&count_private=true&layout=compact' height="150" alt="languages graph" />  
 </div>
 
 
