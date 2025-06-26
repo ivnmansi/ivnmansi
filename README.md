@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">- 💻 3rd year computer engineering student<br>- 🧠 Learning C++, Java, Python & Javascript</p> 
+<p align="left">- 💻 3rd year computer engineering student<br>- 🧠 Learning C++, Java, Python & Javascript, but also messing around with other languages ;)</p> 
 
 ###
 
