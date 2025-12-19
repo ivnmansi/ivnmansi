@@ -9,5 +9,5 @@
 
  🔭 3rd year computer engineering student and hobbyistic programmer
 - `🌱 learning`  vueJS, typescript, C++, data science, arduino
-- `🐧 operating system` arch linux (btw)
+- `🐧 OS` arch linux (btw)
 - `💬 interests` linux, self-hosting, game development, electronics
