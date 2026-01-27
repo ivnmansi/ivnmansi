@@ -10,6 +10,6 @@
 </div>
 
  🔭 4th year computer engineering student and hobbyistic programmer
-- `🌱 learning`  laravel, sql, more C
+- `🌱 learning`  laravel, sql, more C/C++
 - `🐧 operating system` arch linux (btw)
 - `💬 interests` linux, self-hosting, game development, electronics
