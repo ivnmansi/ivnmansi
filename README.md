@@ -10,6 +10,6 @@
 </div>
 
  🔭 3rd year computer engineering student and hobbyistic programmer
-- `🌱 learning`  vueJS, typescript, C++, data science, arduino
+- `🌱 learning`  laravel, vueJS, typescript, C++
 - `🐧 OS` arch linux (btw)
 - `💬 interests` linux, self-hosting, game development, electronics
