@@ -6,7 +6,7 @@
 
 | | |
 | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=c,cpp,python,ts,vue,nuxtjs,laravel,java,linux,arch,arduino,docker,latex,git,neovim&perline=5" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivnmansi&layout=compact&hide_border=true&bg_color=0d1116" height="150" alt="languages graph" /> |
+| <img src="https://skillicons.dev/icons?i=c,cpp,python,ts,vue,nuxtjs,laravel,julia,linux,arch,arduino,docker,latex,git,neovim&perline=5" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivnmansi&layout=compact&hide_border=true&bg_color=0d1116" height="150" alt="languages graph" /> |
 
 
  🔭 4th year computer engineering student and hobbyistic programmer
