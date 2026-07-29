@@ -7,7 +7,7 @@
 ### `> cat about.yaml`
 ```yaml
 name: Iván Mansilla
-role: 4th Computer Science Student
+role: 4th year Computer Engineering Student
 interests: [low level programming, game development, self hosting, linux ricing]
 ```
 <table>
